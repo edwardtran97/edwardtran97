@@ -1,6 +1,8 @@
 # Hi, I'm Thuan Tran 
 
-## Learning
+![Coding banner](https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
+
+## About Me
 
 - `Student` in `Front-end Development` course with instruction of [Mr. Hau Nguyen](https://github.com/paulnguyen-mn) at [Nordic Coder School](https://nordiccoder.com/) 
 
@@ -15,3 +17,8 @@
     + Git
     + JavaScript *(Upcoming)*
     + ReactJS *(Upcoming)*
+  
+
+![Coding happy](https://images.unsplash.com/photo-1543058871-74a1d669ba70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
+
+**Happy Coding** ❤️

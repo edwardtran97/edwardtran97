@@ -17,8 +17,5 @@
     + Git
     + JavaScript *(Upcoming)*
     + ReactJS *(Upcoming)*
-  
-
-![Coding happy](https://images.unsplash.com/photo-1543058871-74a1d669ba70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
 
 **Happy Coding** ❤️

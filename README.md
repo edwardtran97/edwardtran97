@@ -8,11 +8,11 @@
 
 - Learning `Software Engineering` at FUNiX Online University (A member of FPT University - Vietnam) 
 
-- Writing [blog and documentation](https://edwardtran.vercel.app/) to summarize knowledge learned about `Front-end` for myself. Included:
+- Writing blog and documentation to summarize knowledge learned about `Front-end` for myself. Included:
     + HTML5
     + CSS3
     + Responsive 
-    + Bootstrap UI library
+    + Bootstrap
     + SCSS
     + Git
     + JavaScript *(Upcoming)*

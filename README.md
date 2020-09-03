@@ -15,7 +15,5 @@
     + Bootstrap
     + SCSS
     + Git
-    + JavaScript *(Upcoming)*
-    + ReactJS *(Upcoming)*
 
 **Happy Coding** ❤️
